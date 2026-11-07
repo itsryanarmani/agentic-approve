@@ -11,6 +11,6 @@ Keywords: approval, review-queue, agentic-suite, claude-code, codex, cli, mcp.
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-approve
-- Core contract: https://github.com/pooriaarab/agentic-approve/blob/main/docs/agentic-core.md
+- README: https://github.com/itsryanarmani/agentic-approve
+- Core contract: https://github.com/itsryanarmani/agentic-approve/blob/main/docs/agentic-core.md
 - License: MIT
