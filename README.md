@@ -4,7 +4,7 @@
 [![Downloads per month](https://img.shields.io/npm/dm/agentic-approve)](https://www.npmjs.com/package/agentic-approve)
 [![MIT license](https://img.shields.io/npm/l/agentic-approve)](https://opensource.org/license/mit)
 
-[Docs](https://www.npmjs.com/package/agentic-approve) · [Setup](#integration-guides) · [API](#runtime-surfaces) · [Comparisons](#compare) · [llms.txt](https://github.com/pooriaarab/agentic-approve/blob/main/llms.txt)
+[Docs](https://www.npmjs.com/package/agentic-approve) · [Setup](#integration-guides) · [API](#runtime-surfaces) · [Comparisons](#compare) · [llms.txt](https://github.com/itsryanarmani/agentic-approve/blob/main/llms.txt)
 
 agentic-approve is an open-source approval queue for developers who review AI agent output before their applications act.
 Reviewers edit drafts, approve or reject items, and read an audit log.
@@ -255,7 +255,7 @@ For SDK calls, pass it in the edit or decision options.
 ## Status
 
 Version 0.1.0 is an early release. APIs and storage formats may change before 1.0.
-Use [GitHub issues](https://github.com/pooriaarab/agentic-approve/issues) for bugs and support.
+Use [GitHub issues](https://github.com/itsryanarmani/agentic-approve/issues) for bugs and support.
 Public case studies are not yet published in this repository.
 
 ### Contributing and release flow
@@ -340,4 +340,4 @@ Export those variables or load the file before starting the CLI or MCP server.
 
 ## License
 
-MIT. See the [MIT license text](https://github.com/pooriaarab/agentic-approve/blob/main/LICENSE).
+MIT. See the [MIT license text](https://github.com/itsryanarmani/agentic-approve/blob/main/LICENSE).
