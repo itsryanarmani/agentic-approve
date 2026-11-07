@@ -55,7 +55,7 @@
   ],
   "license": "MIT",
   "main": "./dist/index.js",
-  "mcpName": "io.github.pooriaarab/agentic-approve",
+  "mcpName": "io.github.itsryanarmani/agentic-approve",
   "name": "agentic-approve",
   "publishConfig": {
     "access": "public"
